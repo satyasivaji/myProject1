@@ -6,6 +6,7 @@ public class jaiBhim {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Jai Bhim");
+		System.out.println("Jai Bhim");
 
 	}
 
